@@ -1,4 +1,4 @@
 <?php
-echo "<h2>ITF is not fun</h2>";
+echo "<h2>WT</h2>";
 echo "Hello world!<br>;
 ?>
